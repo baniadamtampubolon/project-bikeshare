@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
-*.Pipfile
-*.Pipfile.lock
-*.project-checkpoints.ipynb/
+.Pipfile
+.Pipfile.lock
+.project-checkpoints.ipynb/
