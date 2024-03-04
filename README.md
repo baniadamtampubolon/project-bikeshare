@@ -1,8 +1,8 @@
-#### Setup Environment
-pip install pipenv
-pipenv install 
-pipenv shell
+#### Setup Environment <br>
+pip install pipenv <br>
+pipenv install <br>
+pipenv shell <br>
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
-
-#### Run steamlit app
+<br><br>
+#### Run steamlit app<br>
 streamlit run dashboard.py
